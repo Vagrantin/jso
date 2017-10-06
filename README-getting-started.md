@@ -20,7 +20,7 @@ Preferrably you may obtain JSO using [bower.io](http://bower.io).
 
 Alternatively, you may obtain the source from github by downloading or cloning the source.
 
-###Using a CDN
+### Using a CDN
 
 If you like to use it with a CDN the recommended way is to use it through [rawgit.com](https://rawgit.com).
 
