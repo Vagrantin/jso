@@ -20,7 +20,10 @@ Preferrably you may obtain JSO using [bower.io](http://bower.io).
 
 Alternatively, you may obtain the source from github by downloading or cloning the source.
 
-Currently, JSO is not available through any CDN.
+If you like to use it with a CDN the recommended way is to use it through [rawgit.com] (https://rawgit.com)
+Simple past [the build path] (https://github.com/andreassolberg/jso/blob/master/build/jso.js) in rawgit.com and you are good to go !
+
+
 
 
 ## Loading JSO
